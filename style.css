@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+  
+body {
+    background: 
+        url(https://media.giphy.com/media/MEDT364Ths1Qk/giphy.gif) no-repeat top center,
+        url(https://media.giphy.com/media/mbar54jwxlnKs5nlOc/giphy-downsized-large.gif) no-repeat left center,
+        url(https://media.giphy.com/media/mbar54jwxlnKs5nlOc/giphy-downsized-large.gif) no-repeat right center,
+        url(https://media.giphy.com/media/MEDT364Ths1Qk/giphy.gif) no-repeat bottom center;
+    background-color: #000;
+    min-height: 100vh;
+    color: #fff;
+}
